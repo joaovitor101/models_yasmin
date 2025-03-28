@@ -1,0 +1,11 @@
+{
+    "candidatos": [
+      { "id_aluno": 1, "id_projeto": 101, "id_evento": 1001, "situacao_candidato": "Aprovado bbb", "qrcode": "123456" },
+      { "id_aluno": 2, "id_projeto": 102, "id_evento": 1002, "situacao_candidato": "Pendente", "qrcode": "789012" }
+    ],
+    "votantes": [
+      { "id_aluno": 3, "id_visitante": null, "id_evento": 1001, "situacao_votante": "Votou" },
+      { "id_aluno": null, "id_visitante": 200, "id_evento": 1002, "situacao_votante": "Não votou" }
+    ]
+  }
+  
